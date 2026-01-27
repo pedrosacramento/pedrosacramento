@@ -2,7 +2,6 @@
 
 - M.S. Computer Science · B.A. Architecture & Urbanism
 - 💬 Tactile interaction research + software engineering
-- 📈 Scalable actuation mechanisms
 
 - 📫 [LinkedIn](https://linkedin.com/in/pedrosacramento) · [CV](/cv-software-engineering.pdf)
 
