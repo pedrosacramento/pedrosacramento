@@ -3,7 +3,7 @@
 - M.S. Computer Science · B.A. Architecture & Urbanism
 - 💬 Tactile interaction research + software engineering
 
-- 📫 [LinkedIn](https://linkedin.com/in/pedrosacramento) · [CV](/cv-software-engineering.pdf)
+- 📫 [LinkedIn](https://www.linkedin.com/in/pedro-sacramento-1b99b05b) · [CV](/cv-software-engineering.pdf)
 
 ## Software Engineering
 
