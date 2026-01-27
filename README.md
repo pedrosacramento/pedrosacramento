@@ -1,16 +1,31 @@
-## Hi there 👋
+# Pedro Sacramento
 
-<!--
-**pedrosacramento/pedrosacramento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- M.S. Computer Science · B.A. Architecture & Urbanism
+- 💬 Tactile interaction research + software engineering
+- 📈 Scalable actuation mechanisms
 
-Here are some ideas to get you started:
+- 📫 [LinkedIn](https://linkedin.com/in/pedrosacramento) · [CV](/cv-software-engineering.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Software Engineering
+
+20+ years building interactive systems. Specialized in:
+- Full-stack: TypeScript, React, Node.js
+- Scalable architecture & performance
+- 3D printing & open-source hardware
+
+## Open-source Research
+
+Tactile interaction research with focus on:
+- Haptic interfaces for non-visual interaction
+- Shape-changing displays
+- Computational fabrication
+- Low-cost actuation
+
+## Featured Project
+
+**Bezalel** — Open-source, 3D-printable tactile display
+
+- [GitHub](https://github.com/pedrosacramento/bezalel)
+- [SIGGRAPH Asia 2019](https://dl.acm.org/doi/abs/10.1145/3355088.3365144)
+- [Demo](https://pedrosacramento.github.io/tictactoe/)
+- [Software Engineering CV](/cv-software-engineering.pdf)
