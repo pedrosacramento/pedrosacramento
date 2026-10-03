@@ -20,7 +20,13 @@ Tactile interaction research with focus on:
 - Computational fabrication
 - Low-cost actuation
 
-## Featured Project
+## Featured Projects
+
+**Cartoon Vectorizer** — Turns a cartoon image or video frame into an editable SVG
+
+- [Live demo on Hugging Face](https://huggingface.co/spaces/pedrosacramento/cartoon-vectorizer)
+- Restores the image with neural super-resolution (Real-ESRGAN anime model), then traces flat colour fills underneath and line art on top as stroked Bézier centrelines
+- Python · PyTorch · potrace · Gradio · source is private
 
 **Bezalel** — Open-source, 3D-printable tactile display
 
